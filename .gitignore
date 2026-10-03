@@ -1,0 +1,11 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+
+# Course original materials - kept local & read-only
+CourseSlides/
+ExamTraining/
+Exercises/
+FinalQuiz25-26/
